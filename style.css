@@ -1,0 +1,42 @@
+*{margin:0;padding:0;}
+body{background:burlywood;}
+.mainmenu{text-align:center;background:green;}
+.mainmenu ul{margin:0;padding:0;list-style:none;}
+.mainmenu ul li{float: left;
+display: block;}
+.mainmenu ul li a{text-decoration:none;
+color: #FFF;padding:20px;display:block;text-transform:uppercase;}
+.mainmenu ul li a:hover{background:red;transition:all 0.4s ease .0s;}
+.fix{overflow:hidden;}
+<!style fore megamenu>
+.megamenu{}
+.mainmenu ul li ul.megamenu{width:60%;position:absolute;
+display:none;
+background:#E26425;}
+.mainmenu ul li:hover ul.megamenu{display:block;}
+.mainmenu ul li:hover ul.megamenu li{width:180px;
+padding-right:40px;float:left;}
+.mainmenu ul li:hover ul.megamenu li a{color:#fff;}
+.mainmenu ul li:hover ul.megamenu li a:hover{background:#8000FF;color:colral;}
+.h1{font-size: 18px;
+color: #DEB887;
+border-bottom: 2px solid #000;
+padding: 8px 42px;
+margin: 6px;}
+.mainmenu ul li ul.megamenu_div{width:60%;position:absolute;
+display:none;
+background:#E26425;}
+.mainmenu ul li:hover ul.megamenu_div{display:block;}
+.mainmenu ul li:hover ul.megamenu_div li p{float: left;
+width: 160px;
+margin-top: 8px;
+padding: 10px;
+color: #FFF;
+text-transform: uppercase;
+margin: 12px;}
+.{}
+
+
+
+
+<!style fore megamenu>
